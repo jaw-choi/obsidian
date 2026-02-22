@@ -2,15 +2,13 @@
 title: Home
 ---
 
-# 개발 기록 아카이브
+# 🚀 개발 기록 아카이브
 
-기초를 중심으로 정리한 학습 기록, 프로젝트 구현 과정, 트러블슈팅 문서 모음입니다.
+유실된 블로그 데이터를 복구 중입니다. 사이드바의 구조가 곧 복원됩니다.
 
-## 바로가기
-- [[Project-Index|Project Index]]
-- [[Troubleshooting-Index|Troubleshooting Index]]
-- [[Study-Log-Index|Study Log Index]]
-
-## 최근 포스트
+## 최근 복구된 포스트
 - [[1교시]]
+- [[2교시]]
+- [[3교시]]
+- [[람다]]
 - [[1차-프로젝트/1차-프로젝트-회고|1차 프로젝트 회고]]
